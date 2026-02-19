@@ -263,7 +263,7 @@ body{
 
 /* Invite_Details_Container */
 .Invite_Details_Container{
-    background: url('assets/Images/Birthday_Bg2.png');
+    background: url('assets/Images/Birthday_BG2.png');
     background-size: cover;
     text-align: center;
 }
@@ -380,7 +380,7 @@ body{
 /* Best_Wishes */
 .Best_Wishes{
     height: 500px;
-    background: url('assets/Images/Birthday_BG.png');
+    background: url('assets/Images/Birthday_Bg.png');
     background-size: cover;
     text-align: center;
     display: flex;
