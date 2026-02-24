@@ -39,7 +39,6 @@ const Social_Share = () => {
                             </LinkedinShareButton>
             
                         </div>
-                        
         </div>
     </div>
   )
