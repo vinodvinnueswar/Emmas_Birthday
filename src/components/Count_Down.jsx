@@ -37,11 +37,11 @@ const Count_Down = () => {
 
   return (
     <div className="countdown">
+        <h2> Countdown</h2>
       <div className="gold-text">
 
         {timeLeft ? (
           <>
-            <h2>Our Wedding Countdown</h2>
 
             <div className="timer">
               <div>

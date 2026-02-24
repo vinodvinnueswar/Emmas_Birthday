@@ -226,18 +226,19 @@ body{
 /* Count Down */
 .countdown {
   text-align: center;
-  padding: 50px 20px;
   background: url('assets/Images/Birthday_Bg.png');
    background-size: cover;
 }
 
 .countdown h2 {
-  font-family: 'Great Vibes', cursive;
-  font-size: 40px;
-  margin-bottom: 20px;
+   padding: 20px;
+    background-color:rgba(4, 65, 126, 0.826);
+    color: white;
+    width: 100%;
 }
 
 .timer {
+  padding: 50px;
   display: flex;
   justify-content: center;
   gap: 25px;
